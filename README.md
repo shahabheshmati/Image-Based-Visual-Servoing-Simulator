@@ -6,3 +6,15 @@ If you use Image-Based-Visual-Servoing-Simulator in work that leads to a publica
 
 ''Prescribed performance image based visual servoing under field of view constraints'', Shahab Heshmati-alamdari, Charalampos P Bechlioulis, Minas V Liarokapis, Kostas J Kyriakopoulos IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2014.
 
+Bibtex:
+
+@CONFERENCE{Heshmati-Alamdari20142721,
+author={Heshmati-Alamdari, S. and Bechlioulis, C.P. and Liarokapis, M.V. and Kyriakopoulos, K.J.},
+title={Prescribed performance image based visual servoing under field of view constraints},
+journal={IEEE International Conference on Intelligent Robots and Systems},
+year={2014},
+pages={2721-2726},
+doi={10.1109/IROS.2014.6942934}
+}
+
+
